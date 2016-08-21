@@ -6,3 +6,4 @@ from mybottle.libs import log
 app = Bottle()
 TEMPLATE_PATH.append('tpl/')
 app.install(log.stopwatch)
+
