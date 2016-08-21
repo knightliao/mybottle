@@ -59,6 +59,8 @@ setup(
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
+    package_data={
+    },
     install_requires=reqs,
     scripts=[],
 )
