@@ -1,0 +1,15 @@
+*.py[cod]
+/.pydevproject
+/log/*.log
+/.settings
+/.project
+/.idea
+weixin/conf/config.py
+weixin/msg*.json
+msg
+store/conf/config.py
+store/tools/conf/gongzhong_hao_config.py
+store/log/*.log
+store/log
+log
+webapp/knight/conf/to_config.py
