@@ -35,7 +35,7 @@ def find_version(*file_paths):
 
 
 setup(
-    name='pfrock',
+    name='mybottle',
     version=find_version("mybottle/__init__.py"),
     description='A simple bottle libs',
     long_description=readme,

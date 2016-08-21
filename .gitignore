@@ -13,3 +13,6 @@ store/log/*.log
 store/log
 log
 webapp/knight/conf/to_config.py
+build
+dist
+pfrock.egg-info
